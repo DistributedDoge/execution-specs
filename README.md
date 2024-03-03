@@ -3,7 +3,7 @@
 [![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/ethereum/execution-specs/badge)](https://www.gitpoap.io/gh/ethereum/execution-specs)
 
 ## Description
-
+...
 This repository contains the specifications related to the Ethereum execution client, specifically the [pyspec](/src/ethereum/frontier/fork.py) and specifications for [network upgrades](/network-upgrades). The [JSON-RPC API specification](https://github.com/ethereum/execution-apis) can be found in a separate repository.
 
 ### Ethereum Protocol Releases
